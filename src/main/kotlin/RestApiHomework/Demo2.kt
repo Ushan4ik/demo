@@ -1,10 +1,7 @@
-package com.example.demo.papka
+package RestApiHomework
 
 import java.net.HttpURLConnection
 import java.net.URL
-import java.io.FileNotFoundException
-import java.io.IOException
-import java.io.Serializable
 
 // ===========================================
 // Задача 2. REST — полный CRUD

@@ -1,4 +1,4 @@
-package com.example.demo.papka
+package RestApiHomework
 
 import java.net.HttpURLConnection
 import java.net.URL

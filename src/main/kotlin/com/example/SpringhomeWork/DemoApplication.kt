@@ -1,9 +1,7 @@
-package com.example.demo
+package com.example.SpringhomeWork
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
-import org.springframework.stereotype.Component
-import org.springframework.stereotype.Service
 
 @SpringBootApplication
 class DemoApplication{
